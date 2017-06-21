@@ -23,7 +23,7 @@ gem 'bcrypt', '~> 3.1.7'
 # gem 'capistrano-rails', group: :development
 
 # Use Rack CORS for handling Cross-Origin Resource Sharing (CORS)
-# gem 'rack-cors'
+gem 'rack-cors'
 
 # Use jwt for authentication
 gem 'jwt'
