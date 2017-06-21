@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Runs on Ruby 2.4.0 and Rails 5.1
 
-Things you may want to cover:
+Rails app configured to run as an API only (i.e. no views).
 
-* Ruby version
+Uses JWT for authentication
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Intended for providing a performant, flexible backend so I can experiment with a number of front-end technologies
