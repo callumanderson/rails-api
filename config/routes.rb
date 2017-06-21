@@ -7,5 +7,5 @@ Rails.application.routes.draw do
   end
 
   post '/login', to: 'authentication#authenticate'
-  post 'signup', to: 'users#create'
+  post '/signup', to: 'users#create'
 end
